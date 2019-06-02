@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: Target Auras
+## Notes: Makes auras on unit frames larger.
+## Author: Rothius
+## Version: 2.6
+
+TargetAuras.lua
